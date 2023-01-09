@@ -1,0 +1,13 @@
+
+Question:3 Question: what are the key things you would consider when creating/consuming an API to ensure that it is secure and reliable?
+
+
+We will make use of Httpstatus code to check the security and reliability of api.
+
+if Http status code is in range of 200-300 then it is successful.
+
+if it is like range of 400 then it is a bad request.
+
+I will also check for the User Authentication etc.
+
+I will also make sure that all the exceptions are handled properly for the proper flow of the Application.
